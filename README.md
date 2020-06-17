@@ -49,6 +49,9 @@ IOS 提供的網路服務，包括：
 
 回 user 模式則在 hostname# 後輸入 diable。
 
+輸入 show ? 可知道此指令的用法，可簡寫 show 為 sh。
+
+
 
 
 (to be continued...)
