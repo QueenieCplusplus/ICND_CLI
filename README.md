@@ -20,7 +20,7 @@ IOS 提供的網路服務，包括：
 
 (1) 設備上的 Console Port 經由網路管理員的終端機進行設定。
 
-(2) Telnet
+(2) VPTelnet
 
 (3) Modem 數據機經 AUX Port 可讓網路管理者遠端進行設定
 
