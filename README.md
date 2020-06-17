@@ -47,6 +47,8 @@ IOS 提供的網路服務，包括：
 重要指令只有在 priviledged 模式下方能執行。在 hostname> 後輸入 enable 指令，可輸入相關密碼。
 密碼輸入正確後，網路設備將顯示 hostname#，表示從使用者模式轉變成管理者模式。
 
+回 user 模式則在 hostname# 後輸入 diable。
+
 
 
 (to be continued...)
