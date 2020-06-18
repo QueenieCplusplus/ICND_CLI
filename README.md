@@ -149,19 +149,21 @@ Domain Name:
 為路由器對外連結做登入設定：從控制埠登入路由器。
 
     (config)#line console 0
+    // 由全域(此刻為管理者模式)模式進入 line 模式。
     // console = 控制台
     
-    (config)#login 
-    (config)#password + <密碼>
+    (config-line)#login 
+    (config-line)#password + <密碼>
     
 https://www.misterq.cc/web-application/self-study/what-is-console/
     
 為路由器對外連結做登入設定：從遠端登入(如 Telnet)路由器。
 
     (config)#line vty 04
-    // vty = Virtual Type Terminal 虛擬終端機
+    // vty = Virtual Type Terminal 虛擬終端機。
+    // 數字04 代表已經開啟 0~4 個 vty 連線。
     
-    (config)#password + <密碼>
+    (config-line)#password + <密碼>
    
 常見的檢視路由設定之指令
 
@@ -171,6 +173,7 @@ https://www.misterq.cc/web-application/self-study/what-is-console/
     
     (config-if)#config term
     //游標變化如上
+    // if = 介面縮寫
     
     #exit
     
