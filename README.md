@@ -130,3 +130,9 @@ sw(config)#ip address + <IP 位址> + <子網路遮罩>
 
 
 
+
+
+
+
+
+
