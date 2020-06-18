@@ -133,23 +133,33 @@ Domain Name:
 
 使用角色權限
 
-    #enable password + 密碼
+    #enable password + <密碼>
     //為路由器設定密碼
     
-    #enable secret + 密碼
+    #enable secret + <密碼>
     //為密碼加密。
     
-    #no enable secret + 密碼
+    #no enable secret + <密碼>
     //解除密碼設定。
    
     #service password-encryption
     //一般模式下，為伺服器設定檔的密碼加密。
+    
+為路由器對外連結做登入設定
+
+    (config)#line console 0
+    (config)#login 
+    (config)#password + <密碼>
    
 常見的檢視路由設定之指令
 
-    #show interfaces 
+    #sh int
+    
     #show int serial 0
+    
     (config-if)#config term
+    //游標變化如上
+    
     #exit
     
 設定路由介面的頻寬
