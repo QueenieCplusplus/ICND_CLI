@@ -78,14 +78,15 @@ show version
 
 show run (全名 show running-configuration)
 
+# sh int 
+
 show int (全名 show interfaces)
 
 show int status (查看所有介面狀態)
 
 show int 後接 介面 (顯示介面的基本資料)
 
-
-# sh int eth 0/1
+# sh int eth 0/1 輸出檢視
 
 enabled (active)
 
