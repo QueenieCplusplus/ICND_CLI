@@ -125,6 +125,9 @@ Domain Name:
         sw(config)#hostname + <為此台交換器命名的名稱>
 
         sw(config)#ip address + <IP 位址> + <子網路遮罩> 
+        //替網路設備如交換器配置IP位址的情境有：
+        //Telnet遠端登入
+        //或是藉由 SNMP 管理此台網路設備。 
 
 # 啟動與設定路由器
 
