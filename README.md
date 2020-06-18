@@ -1,20 +1,19 @@
 # ICND CLI
 網路設備操作指令介面
 
-
 網路作業系統軟體平台適用於 Cisco 各類硬體設備上，它不僅僅提供網路服務，也讓各類網路應用程式得以使用。
 
 # IOS (Internet Operation System)
 
 IOS 提供的網路服務，包括：
 
-- [x] 執行通訊協定
+- [x] protocol 執行通訊協定
 
-- [x] 設備間連線
+- [x] connection 設備連線
 
-- [x] 控制存取
+- [x] access 控制存取
 
-- [x] 可增加介面
+- [x] interfaces(if) 增加介面
 
 # EXEC Session
 
@@ -44,11 +43,11 @@ IOS 提供的網路服務，包括：
 
 # ?
 
-按下 enter 當執行序開始時，路由器會顯示 hostname> ，表示路由器正在 user 模式，此模式沒有讓使用者能用來控制路由器的指令。
-
 此時輸入 ? ， 此乃 content sensitive help ，能列出使用者模式下的所有指令。
 
-重要指令：
+# enter
+
+按下 enter 當執行序開始時，路由器會顯示 hostname> ，表示路由器正在 user 模式，此模式沒有讓使用者能用來控制路由器的指令。
 
 # enable
 
@@ -64,7 +63,7 @@ IOS 提供的網路服務，包括：
 
 # 啟動與設定交換機
 
-* 歷史歷程暫存器
+* 歷史歷程暫存器 (buffer)
 
         ctrl + p (previous)
 
@@ -90,13 +89,13 @@ IOS 提供的網路服務，包括：
 
 enabled (active)
 
-10BaseT (port speed)
+10BaseT (speed)
 
 MAC address
 
 MTU
 
-protocol allowance
+protocol 
 
 # sh ip 輸出檢視
 
