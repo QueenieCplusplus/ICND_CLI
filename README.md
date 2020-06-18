@@ -203,6 +203,10 @@ https://www.misterq.cc/web-application/self-study/what-is-console/
 
     (config)# terminal editing
     
+* editing cmd set 
+
+編輯指令集
+    
 # Ref Doc
 
 https://david50.pixnet.net/blog/post/45217572-%5B筆記%5Dcisco基本指令-密碼設定
