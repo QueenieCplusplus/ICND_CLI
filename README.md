@@ -14,15 +14,15 @@ IOS 提供的網路服務，包括：
 
 - [x] 可增加介面
 
-* EXEC Session
+ EXEC Session
 
 指令列介面可透過
 
 (1) 設備上的 Console Port 經由網路管理員的終端機進行設定。
 
-(2) VPTelnet
+(2) VPN + Telnet (遠端連線)
 
-(3) Modem 數據機經 AUX Port 可讓網路管理者遠端進行設定
+(3) Modem 數據機經 AUX Port 可讓網路管理者遠端進行設定 (現在比較少見)
 
     使用輔助連接埠連接的數據機，再透過電話撥號連線建立會談。
 
