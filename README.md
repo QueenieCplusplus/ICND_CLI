@@ -59,8 +59,8 @@ IOS 提供的網路服務，包括：
 
 # show
 
-輸入 show ? 可知道此指令的用法，可簡寫 show 為 sh。
-而 interface 的簡寫則為 int。
+輸入 show ? 可知道此指令的用法，可簡寫 show 為 sh、sho。
+而 interface 的簡寫則為 int、inte、inter、interf。
 
 # 啟動與設定交換機
 
