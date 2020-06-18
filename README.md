@@ -144,10 +144,15 @@ Domain Name:
     #service password-encryption
     //一般模式下，為伺服器設定檔的密碼加密。
     
-為路由器對外連結做登入設定
+為路由器對外連結做登入設定：從控制埠登入路由器。
 
     (config)#line console 0
     (config)#login 
+    (config)#password + <密碼>
+    
+為路由器對外連結做登入設定：從遠端登入(如 Telnet)路由器。
+
+    (config)#line vty 04
     (config)#password + <密碼>
    
 常見的檢視路由設定之指令
