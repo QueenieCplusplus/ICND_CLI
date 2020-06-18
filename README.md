@@ -47,8 +47,11 @@ IOS 提供的網路服務，包括：
       #copy tftp flash
       //將映像檔從遠端伺服器還原至快閃記憶體。
       //輸出將顯示 accessing ftp:// <IP address>/<destination file name>
+      //flash(快閃記憶體檔案系統)、ftp(網路檔案系統)、http 代表在網路中的某項設備內
+      //其它尚有任何讀寫資料的終端 endpoint 如：
+      //NVRAM、ROM、Modems 的 MUX 介面、BRI 的 MUX 介面，
+      //Raw Memory System。
       
-
 * 從 HTTP 瀏覽器設定。
 
 * 此網路設備設有 IP，並且由 Telnet 遠端設定。
