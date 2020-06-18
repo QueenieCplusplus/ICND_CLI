@@ -136,7 +136,10 @@ Domain Name:
     #enable password 
     
     #enable secret
-
+    //為密碼加密。
+   
+    #service password-encryption
+   
 常見的檢視路由設定之指令
 
     #show interfaces 
