@@ -100,6 +100,17 @@ protocol allowance
 
 # sh ip 輸出檢視
 
+IP address
+
+Subnet Mask
+
+Default Gateway
+
+Mgmet Vlan: 編號
+
+Domain Name:
+
+陳列出伺服器編號與IP位址
 
 # 啟動與設定路由器
 
