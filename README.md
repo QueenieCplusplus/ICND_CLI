@@ -38,16 +38,22 @@ IOS 提供的網路服務，包括：
 
 常見指令：
 
+# ?
+
 按下 enter 當執行序開始時，路由器會顯示 hostname> ，表示路由器正在 user 模式，此模式沒有讓使用者能用來控制路由器的指令。
 
 此時輸入 ? ， 此乃 content sensitive help ，能列出使用者模式下的所有指令。
 
 重要指令：
 
+# enable
+
 重要指令只有在 priviledged 模式下方能執行。在 hostname> 後輸入 enable 指令，可輸入相關密碼。
 密碼輸入正確後，網路設備將顯示 hostname#，表示從使用者模式轉變成管理者模式。
 
-回 user 模式則在 hostname# 後輸入 diable。
+回 user 模式則在 hostname# 後輸入 disable。
+
+# show
 
 輸入 show ? 可知道此指令的用法，可簡寫 show 為 sh。
 而 interface 的簡寫則為 int。
