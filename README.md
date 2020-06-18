@@ -112,7 +112,7 @@ Domain Name:
 
 陳列出伺服器編號與 IP 位址
 
-# config term 
+# conf term 
 
 此為設定交換器的廣域設定模式，必須從 previledge 管理者模式切換而來。
 
