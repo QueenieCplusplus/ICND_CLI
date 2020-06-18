@@ -131,10 +131,13 @@ Domain Name:
 
 # 啟動與設定路由器
 
+使用角色權限
+
+    #enable password 
+    
+    #enable secret
+
 常見的檢視路由設定之指令
-
-
-
 
     #show interfaces 
     #show int serial 0
