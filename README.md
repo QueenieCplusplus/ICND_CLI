@@ -66,25 +66,25 @@ IOS 提供的網路服務，包括：
 
 * 歷史歷程暫存器
 
-ctrl + p (previous)
+        ctrl + p (previous)
 
-ctrl + n (next)
+        ctrl + n (next)
 
-history
+        history
 
-show history
+        show history
 
-show version
+        show version
 
-show run (全名 show running-configuration)
+        show run (全名 show running-configuration)
 
 # sh int 
 
-show int (全名 show interfaces)
+        show int (全名 show interfaces)
 
-show int status (查看所有介面狀態)
+        show int status (查看所有介面狀態)
 
-show int 後接 介面 (顯示介面的基本資料)
+        show int 後接 介面 (顯示介面的基本資料)
 
 # sh int eth 0/1 輸出檢視
 
@@ -116,12 +116,12 @@ Domain Name:
 
 此為設定交換器的廣域設定模式，必須從 previledge 管理者模式切換而來。
 
-sw(congig)# ? 
-//線上輔助功能
+        sw(congig)# ? 
+        //線上輔助功能
 
-sw(config)#hostname + <為此台交換器命名的名稱>
+        sw(config)#hostname + <為此台交換器命名的名稱>
 
-sw(config)#ip address + <IP 位址> + <子網路遮罩> 
+        sw(config)#ip address + <IP 位址> + <子網路遮罩> 
 
 # 啟動與設定路由器
 
