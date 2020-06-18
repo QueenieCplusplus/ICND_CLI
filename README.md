@@ -76,6 +76,8 @@ show history
 
 show version
 
+show run (全名 show running-configuration)
+
 
 # 啟動與設定路由器
 
