@@ -133,11 +133,14 @@ Domain Name:
 
 使用角色權限
 
-    #enable password 
+    #enable password + 密碼
     //為路由器設定密碼
     
-    #enable secret
+    #enable secret + 密碼
     //為密碼加密。
+    
+    #no enable secret + 密碼
+    //解除密碼設定。
    
     #service password-encryption
     //一般模式下，為伺服器設定檔的密碼加密。
