@@ -18,7 +18,7 @@ IOS 提供的網路服務，包括：
 
 # EXEC Session
 
-指令列介面可透過
+指令列介面可透過 console port 控制埠或是 aux port 輔助連接埠。
 
 (1) 設備上的 Console Port 經由網路管理員的終端機進行設定。
 
