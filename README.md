@@ -67,9 +67,13 @@ IOS 提供的網路服務，包括：
 * 歷史歷程暫存器
 
 ctrl + p (previous)
+
 ctrl + n (next)
+
 history
+
 show history
+
 
 # 啟動與設定路由器
 
