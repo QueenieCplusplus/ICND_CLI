@@ -116,6 +116,9 @@ Domain Name:
 
 此為設定交換器的廣域設定模式，必須從 previledge 管理者模式切換而來。
 
+        sw(config)
+        //注意身份切換後的游標顯示方式，從 user -> previledge -> congfig
+
         sw(config)# ? 
         //線上輔助功能
 
