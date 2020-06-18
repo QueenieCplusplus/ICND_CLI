@@ -134,6 +134,7 @@ Domain Name:
 使用角色權限
 
     #enable password 
+    //為路由器設定密碼
     
     #enable secret
     //為密碼加密。
