@@ -149,12 +149,16 @@ Domain Name:
 為路由器對外連結做登入設定：從控制埠登入路由器。
 
     (config)#line console 0
+    // console = 控制台
+    
     (config)#login 
     (config)#password + <密碼>
     
 為路由器對外連結做登入設定：從遠端登入(如 Telnet)路由器。
 
     (config)#line vty 04
+    // vty = Virtual Type Terminal 虛擬終端機
+    
     (config)#password + <密碼>
    
 常見的檢視路由設定之指令
