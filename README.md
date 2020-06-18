@@ -154,6 +154,8 @@ Domain Name:
     (config)#login 
     (config)#password + <密碼>
     
+https://www.misterq.cc/web-application/self-study/what-is-console/
+    
 為路由器對外連結做登入設定：從遠端登入(如 Telnet)路由器。
 
     (config)#line vty 04
