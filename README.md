@@ -89,29 +89,27 @@ IOS 提供的網路服務，包括：
 
     介面的編號格式為：<連接方式> <插槽編號> / <連接埠號>
 
-enabled (active)
+- [x] enabled (active)
 
-10BaseT (speed)
+- [x] 10BaseT (speed)
 
-MAC address
+- [x] MAC address
 
-MTU
+- [x] MTU
 
-protocol 
+- [x] protocol 
 
 # sh ip 輸出檢視
 
-IP address
+- [x] IP address
 
-Subnet Mask
+- [x] Subnet Mask
 
-Default Gateway
+- [x] Default Gateway
 
-Mgmet Vlan: 編號
+- [x] Mgmet Vlan: 編號
 
-Domain Name:
-
-陳列出伺服器編號與 IP 位址
+- [x] Domain Name: 陳列出伺服器編號與 IP 位址
 
 # conf term 
 
