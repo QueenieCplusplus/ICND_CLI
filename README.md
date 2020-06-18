@@ -139,6 +139,7 @@ Domain Name:
     //為密碼加密。
    
     #service password-encryption
+    //一般模式下，為伺服器設定檔的密碼加密。
    
 常見的檢視路由設定之指令
 
