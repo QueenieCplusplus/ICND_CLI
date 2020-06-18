@@ -245,6 +245,10 @@ tab 完成一個僅輸入的部分，但要能提供 IOS 辨識。
     #clock set <hr:min:sec> <date> <month> <year>
     //範例如 clock set 16:41:56 18 June 2020
     
+# ^
+
+語法檢查時，會以次方符號提示何處發生錯誤。
+    
 # Ref Doc
 
 https://david50.pixnet.net/blog/post/45217572-%5B筆記%5Dcisco基本指令-密碼設定
