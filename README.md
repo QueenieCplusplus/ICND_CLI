@@ -131,6 +131,29 @@ Domain Name:
 
 # 啟動與設定路由器
 
+常見的檢視路由設定之指令
+
+
+
+
+    #show interfaces 
+    #show int serial 0
+    (config-if)#config term
+    #exit
+    
+設定路由介面的頻寬
+
+    #bandwidth 64
+
+設定路由介面的時脈
+
+    #clock rate 64000
+    
+讓控制埠無限期的開放
+
+    (config)#line console 0
+    (config-line)# exec-timeout 0 0
+    // 效果如同指令 no exec-timeout
 
 (to be continued...)
 
