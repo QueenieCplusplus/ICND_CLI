@@ -197,6 +197,12 @@ https://www.misterq.cc/web-application/self-study/what-is-console/
 
 為網路設備如交換器或是路由器設定密碼，要注意英文字母大小寫是有區別的。
 
+# Terminal Editing
+
+開啟加強版的編輯模式，要從管理者模式下啟動。
+
+    (config)# terminal editing
+    
 # Ref Doc
 
 https://david50.pixnet.net/blog/post/45217572-%5B筆記%5Dcisco基本指令-密碼設定
