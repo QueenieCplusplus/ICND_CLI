@@ -87,6 +87,8 @@ IOS 提供的網路服務，包括：
 
 # sh int eth 0/1 輸出檢視
 
+介面的編號格式為：<連接方式> <插槽編號> / <連接埠號>
+
 enabled (active)
 
 10BaseT (speed)
