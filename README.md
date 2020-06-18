@@ -52,6 +52,8 @@ IOS 提供的網路服務，包括：
       //NVRAM、ROM、Modems 的 MUX 介面、BRI 的 MUX 介面，
       //Raw Memory System。
       
+https://github.com/QueenieCplusplus/ICND_IFS/blob/master/README.md
+      
 * 從 HTTP 瀏覽器設定。
 
 download -> 
