@@ -201,5 +201,4 @@ https://www.misterq.cc/web-application/self-study/what-is-console/
 
 https://david50.pixnet.net/blog/post/45217572-%5B筆記%5Dcisco基本指令-密碼設定
 
-(to be continued...)
 
