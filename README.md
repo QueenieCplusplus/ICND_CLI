@@ -78,6 +78,10 @@ show version
 
 show run (全名 show running-configuration)
 
+show int (全名 show interfaces)
+
+show int 後接 介面 (顯示介面的基本資料)
+
 
 # 啟動與設定路由器
 
