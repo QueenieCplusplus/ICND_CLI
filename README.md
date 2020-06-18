@@ -154,6 +154,10 @@ Domain Name:
     (config)#line console 0
     (config-line)# exec-timeout 0 0
     // 效果如同指令 no exec-timeout
+    
+讓輸入內容和輸出訊息不結成一塊，能各自成行。
+
+    (config-line)# logging synchronous
 
 (to be continued...)
 
