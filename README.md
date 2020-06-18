@@ -98,6 +98,8 @@ MTU
 
 protocol allowance
 
+# sh ip 輸出檢視
+
 
 # 啟動與設定路由器
 
