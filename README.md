@@ -76,6 +76,8 @@ IOS 提供的網路服務，包括：
         show version
 
         show run (全名 show running-configuration)
+        
+        terminal history size (設定暫存器大小)
 
 # sh int 
 
