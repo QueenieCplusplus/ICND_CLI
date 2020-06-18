@@ -116,7 +116,7 @@ Domain Name:
 
 此為設定交換器的廣域設定模式，必須從 previledge 管理者模式切換而來。
 
-        sw(congig)# ? 
+        sw(config)# ? 
         //線上輔助功能
 
         sw(config)#hostname + <為此台交換器命名的名稱>
