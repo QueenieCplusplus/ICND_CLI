@@ -205,6 +205,32 @@ https://www.misterq.cc/web-application/self-study/what-is-console/
     
 * editing cmd set 
 
+ctrl + a 移至該行起點。
+
+ctrl + e 移至該行終點。
+
+ctrl + f 將游標前移動一個字元。
+
+ctrl + b 將游標後移動一個字元。
+
+esc + f 將游標前移動一個字。
+
+esc + b 將游標後移動一個字。
+
+ctrl + d 刪除一個字元。
+
+ctrl + k 刪除游標後的一行字。
+
+ctrl + w 刪除游標前的一行字。
+
+ctrl + u 刪去一整行。
+
+ctrl + r 清除指令列內容至游標的位置。
+
+backspace 刪除游標左側的一個字元。
+
+tab 完成一個僅輸入的部分，但要能提供 IOS 辨識。
+
 編輯指令集
     
 # Ref Doc
