@@ -179,12 +179,12 @@ Domain Name:
 讓輸入內容和輸出訊息不結成一塊，能各自成行。
 
     (config-line)#logging synchronous
+    
+# Case Sensitive 
+
+為網路設備如交換器或是路由器設定密碼，要注意英文字母大小寫是有區別的。
 
 (to be continued...)
-
-
-
-
 
 
 
