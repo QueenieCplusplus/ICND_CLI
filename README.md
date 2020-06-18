@@ -234,6 +234,16 @@ backspace 刪除游標左側的一個字元。
 tab 完成一個僅輸入的部分，但要能提供 IOS 辨識。
 
 編輯指令集
+
+# Clock 
+
+設定路由器的計時器。
+
+    #clocl ?
+    //加上空格與問號，藉以進一步得知指令用法之提示。
+
+    #clock set <hr:min:sec> <date> <month> <year>
+    //範例如 clock set 16:41:56 18 June 2020
     
 # Ref Doc
 
