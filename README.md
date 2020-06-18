@@ -83,6 +83,8 @@ show int (全名 show interfaces)
 show int 後接 介面 (顯示介面的基本資料)
 
 
+
+
 # sh int eth 0/1
 
 enabled (active)
