@@ -74,6 +74,8 @@ history
 
 show history
 
+show version
+
 
 # 啟動與設定路由器
 
