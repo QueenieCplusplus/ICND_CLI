@@ -149,7 +149,7 @@ Domain Name:
 
     #clock rate 64000
     
-讓控制埠無限期的開放
+讓控制埠無限期的開放，略過原本設定的安全機制
 
     (config)#line console 0
     (config-line)# exec-timeout 0 0
