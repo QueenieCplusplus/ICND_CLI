@@ -132,11 +132,11 @@ download ->
 
 # sh ip 輸出檢視
 
-- [x] IP address
+- [x] IP address (為網路設備設定 IP 位址是為了方便管理，也可以不做設定。)
 
-- [x] Subnet Mask
+- [x] Subnet Mask 
 
-- [x] Default Gateway
+- [x] Default Gateway 否則回復原廠預設為 0.0.0.0
 
 - [x] Mgmet Vlan: 編號
 
